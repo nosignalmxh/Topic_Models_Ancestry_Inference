@@ -15,3 +15,5 @@ In Task 2, we performed ancestry inference on 1092 samples using the PSD model a
 
 ![Plot](plot.png)
 
+More details and visualizations can be found in [this presentation](https://github.com/nosignalmxh/Topic_Models_Ancestry_Inference/blob/master/topic_model.pdf).
+
