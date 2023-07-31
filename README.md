@@ -7,7 +7,7 @@ This project involves implementations related to topic models and ancestry infer
 
 In Task 1, we conducted experiments with the PLSA model and obtained a graph showing the change in log_likelihood.
 
-![Log Likelihood](log_likelihood.png)
+![Log Likelihood](log_like.png)
 
 ## Task 2: Ancestry Inference
 
